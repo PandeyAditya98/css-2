@@ -1,0 +1,64 @@
+body
+{
+    margin: 0px;
+    color: chocolate;
+}
+.head1
+{
+    border: 2px solid burlywood;
+    color: white;
+    border-radius: 15px;
+    display: inline-block;
+    background-color: blue;
+    margin: 0px 0px 0px 20px;
+    padding: 40px;
+    font-size: 25px;
+}
+.list
+{
+    border: 2px solid burlywood;
+    color: white;
+    border-radius: 15px;
+    display: inline-block;
+    background-color: blue;
+    margin-left: 150px;
+    padding: 35px;
+    font-size: 25px;
+}
+.list1
+{
+    display: inline-block;
+    font-size: 25px;
+}
+.rating
+{
+    text-align: center;
+    color: white;
+    font-size: 20px;
+    display: inline-block;
+    border-radius: 50%;
+    height: 250px;
+    width: 250px;
+    border: 2px solid burlywood;
+    background-color: blue;
+    margin-right: 500px;
+    padding: 30px;
+}
+form
+{
+    text-align: center;
+    display: inline-block;
+    margin: 0px 0px 0px 20px;
+    padding: 40px;
+    border: 5px dashed firebrick;
+}
+.menu1
+{
+    display: inline-block;
+    border: 5px solid burlywood;
+    border-radius: 15px;
+    font-size: 20px;
+    margin: 20px;
+    text-align:center;
+    width: 26%;
+}
